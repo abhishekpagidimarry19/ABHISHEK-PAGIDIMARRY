@@ -7,7 +7,7 @@ Java, Spring Boot, Hibernate, and Angular. Strong focus on building scalable sol
 in Agile environments. Committed to continuous learning, delivering high-quality code, and driving exceptional
 results.
 
-### SKILLS
+### SKILLS;
 - ** Programming Languages **                : Java 8/11, Spring Boot, Servlets, JSP, Angular
 - ** Web Technologies**                      : HTML, CSS, JavaScript
 - ** Database Technologies**                 : MySQL, JDBC
@@ -18,7 +18,7 @@ results.
 - ** Software Proficiency**                  :  Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 
-### projects
+### projects;
 
 - **Book My Show**         : Developed a comprehensive movie ticket booking system using Java, Spring Boot, Hibernate,and Angular. Designed user-friendly interfaces for browsing movies, selecting seats, and processing payments. Im-plemented RESTful APIs for secure data handling and integrated payment gateways, ensuring smooth transactions.Optimized MySQL database for managing bookings and user data, and worked in an Agile environment to deliver features efficiently.
   
