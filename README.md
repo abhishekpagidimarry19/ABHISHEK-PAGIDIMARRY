@@ -8,8 +8,8 @@ in Agile environments. Committed to continuous learning, delivering high-quality
 results.
 
 ### SKILLS;
-- ** Programming Languages **                : Java 8/11, Spring Boot, Servlets, JSP, Angular
-- ** Web Technologies**                      : HTML, CSS, JavaScript
+- ** Programming Languages                 : Java 8/11, Spring Boot, Servlets, JSP, Angular
+- ** Web Technologies                    : HTML, CSS, JavaScript
 - ** Database Technologies**                 : MySQL, JDBC
 - ** Development Tools**                     : Eclipse, Maven, VS Code, Git/GitHub
 - ** Architectural Patterns**                : Microservices
