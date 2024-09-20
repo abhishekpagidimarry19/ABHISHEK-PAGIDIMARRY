@@ -8,14 +8,14 @@ in Agile environments. Committed to continuous learning, delivering high-quality
 results.
 
 ### SKILLS;
-- ** Programming Languages                 : Java 8/11, Spring Boot, Servlets, JSP, Angular
-- ** Web Technologies                    : HTML, CSS, JavaScript
-- ** Database Technologies**                 : MySQL, JDBC
-- ** Development Tools**                     : Eclipse, Maven, VS Code, Git/GitHub
-- ** Architectural Patterns**                : Microservices
-- ** Operating System**                      : Windows 10
-- ** Methodologies**                         : Agile, SDLC (Software Development Life Cycle)
-- ** Software Proficiency**                  :  Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+- Programming Languages                 : Java 8/11, Spring Boot, Servlets, JSP, Angular
+-  Web Technologies                    : HTML, CSS, JavaScript
+- Database Technologies               : MySQL, JDBC
+-  Development Tools                  : Eclipse, Maven, VS Code, Git/GitHub
+-  Architectural Patterns               : Microservices
+-  Operating System                      : Windows 10
+-  Methodologies                     : Agile, SDLC (Software Development Life Cycle)
+-  Software Proficiency                  :  Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 
 ### projects;
